@@ -213,3 +213,6 @@ ul{
 .offer-text{
     text-align: center;
 }
+.col-4:hover{
+    transform: scale(1.2); 
+}
